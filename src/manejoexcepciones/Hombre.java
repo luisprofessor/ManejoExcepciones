@@ -10,7 +10,7 @@ package manejoexcepciones;
  * @author usuario2
  */
 public class Hombre {
-    
+    //Método
     public void jugarConRobot(){
     
     }
