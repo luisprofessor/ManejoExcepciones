@@ -11,7 +11,8 @@ package manejoexcepciones;
  */
 public class Hombre {
     //Método
-    public void jugarConRobot(){
+    public void jugarConRobot(Robot robot){
+        robot.despertar();
     
     }
     
